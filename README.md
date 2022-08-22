@@ -1,4 +1,4 @@
-# 
+# HTML #
   <!DOCTYPE html>
 <html lang="pt-br">
 	<head>
@@ -36,6 +36,8 @@
         </div>
 	</body>
 </html>
+
+# STYLE.CSS #
 
 
 body {
