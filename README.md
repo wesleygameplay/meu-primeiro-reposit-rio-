@@ -40,10 +40,6 @@
 # STYLE.CSS #
 
 
-body {
-	
-}
-
 #banner {
 	width: 100%;
 }
